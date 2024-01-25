@@ -1,6 +1,6 @@
 
 
-This is the official code for ICLR 2024 paper, **"Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training"** by Shruthi Gowda, Bahram Zonooz, and Elahe Arani.
+This is the official code for ICLR 2024 paper, "[**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**](https://openreview.net/pdf?id=6IjN7oxjXt)" by Shruthi Gowda, Bahram Zonooz, and Elahe Arani.
 
 [//]: # (![image info]&#40;./src/hyper.png&#41;)
 <img src="summary_wres.png"  width="250" height="300">
@@ -61,6 +61,17 @@ python train.py
 ```
 
 ## Cite Our Work
+If you find the code useful in your research, please consider citing our paper:
+<pre>
+@inproceedings{
+anonymous2024conserveupdaterevise,
+title={Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training},
+author={Anonymous},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=6IjN7oxjXt}
+}
+</pre>
 
 ## License
 
