@@ -1,6 +1,6 @@
 
 
-This is the official code for ICLR paper, **"Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training"** by Shruthi Gowda, Elahe Arani and Bahram Zonooz.
+This is the official code for ICLR 2024 paper, **"Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training"** by Shruthi Gowda, Bahram Zonooz, and Elahe Arani.
 
 [//]: # (![image info]&#40;./src/hyper.png&#41;)
 <img src="summary_wres.png"  width="250" height="300">
