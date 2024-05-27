@@ -13,7 +13,7 @@ This is the official code for ICLR 2024 paper, "[**Conserve-Update-Revise to Cur
 ## Setup
 
 CURE is a selective adversarial training method. It is trained and tested on three different datasets 
-using three different architecture (ResNet18, WideResNet34-10 and PreActResNet18). The learning rate is 0.1, 
+using three different architectures (ResNet18, WideResNet34-10, and PreActResNet18). The learning rate is 0.1, 
 the number of epochs is 200 and the weight decay is 5e^-3. The revision rate r 
 and decay factor d for the revision stage are set to 0.2 and 0.999 for all the experiments.
 
